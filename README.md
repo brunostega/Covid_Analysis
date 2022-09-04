@@ -11,7 +11,7 @@ and downloadable launching the bash script getData.sh with the command
 The data are downloaded in the file dpc-covid19-ita-andamento-nazionale.csv, and read in the jupyter notebook
 
 
-analysis2.ipynb is the same as analysis.ipynb with a slighty different approach wich didn't work as well
+analysis2.ipynb is the same as analysis.ipynb with an exponential model insted of a SIR model
 
 test.ipynb was just a test to control the code and the procedure were working correctly
 
